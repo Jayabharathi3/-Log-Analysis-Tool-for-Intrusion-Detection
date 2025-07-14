@@ -1,0 +1,8 @@
+Jul 14 10:22:33 localhost sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Jul 14 10:22:36 localhost sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 22 ssh2
+Jul 14 10:23:01 localhost sshd[12345]: Failed password for user1 from 192.168.1.11 port 22 ssh2
+Jul 14 10:23:45 localhost sshd[12345]: Failed password for user1 from 192.168.1.11 port 22 ssh2
+Jul 14 10:24:23 localhost sshd[12345]: Failed password for user1 from 192.168.1.11 port 22 ssh2
+Jul 14 10:25:10 localhost sshd[12345]: Failed password for user1 from 192.168.1.11 port 22 ssh2
+Jul 14 10:25:40 localhost sshd[12345]: Failed password for user1 from 192.168.1.11 port 22 ssh2
+Jul 14 10:26:12 localhost sshd[12345]: session opened for user root by (uid=0)
