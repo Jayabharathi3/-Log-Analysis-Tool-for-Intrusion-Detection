@@ -12,6 +12,8 @@ A simple Python-based cybersecurity project to analyze Linux-style authenticatio
 
 ## File Structure
 
+```
+
 log-analyzer/
 ├── analyzer.py # Main log analyzer script
 ├── sample_auth.log # Sample log file for Windows users
@@ -19,7 +21,7 @@ log-analyzer/
 ├── output_report.txt # Summary of detected events
 └── README.md # Project overview and instructions
 
-
+```
 ## How It Works
 
 The tool scans log lines for:
